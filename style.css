@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+  }
+
+h1 {
+    color: #2F3645;
+}
+
+.Education {
+    background-color:#939185 ;
+    color: #2F3645;
+}
+
+.color-title {
+    background-color:#939185 ;
+    color: #2F3645;
+}
+
+*{
+    font-weight: normal; 
+}
+
+.color {
+    color: #2F3645;
+}
